@@ -23,10 +23,11 @@ const SliderFive = () => {
                 <h6>Hello there...</h6>
                 <h1 className="font-alt">{sliderContent.name}</h1>
                 <TextLoop>
-                  <p className="loop-text lead">Marketing Research Scientist</p>
-                  <p className="loop-text lead">Business Analyst</p>
-				  <p className="loop-text lead">Data Scientist</p>
-                  <p className="loop-text lead">Software Engineer</p>
+                  <p className="loop-text lead">Marketing Science Research</p>
+                  <p className="loop-text lead">Business Analysis</p>
+				  <p className="loop-text lead">Data Science</p>
+                  <p className="loop-text lead">Software Engineering</p>
+				  <p className="loop-text lead">System Design</p>
                 </TextLoop>{" "}
                 <p className="desc">{sliderContent.description}</p>
                 <div className="d-flex btn-wrapper">
