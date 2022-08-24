@@ -29,9 +29,9 @@ const skillContent = [
   },
   {
     name: "Business Acumen",
-    numberPercent: "75",
+    numberPercent: "80",
     startCount: "0",
-    endCount: "75",
+    endCount: "80",
   }
 ];
 
