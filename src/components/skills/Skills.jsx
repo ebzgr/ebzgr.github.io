@@ -22,12 +22,6 @@ const skillContent = [
     endCount: "85",
   },
   {
-    name: "Managerial Soft Skills",
-    numberPercent: "80",
-    startCount: "0",
-    endCount: "80",
-  },
-  {
     name: "Business Acumen",
     numberPercent: "80",
     startCount: "0",
